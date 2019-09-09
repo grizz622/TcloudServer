@@ -49,7 +49,7 @@
 
 ### 用例管理
 >		支持二级目录的用例管理，用例可根据“步骤”“预期”傻瓜式创建，用例导入导出
-![image](http://tcloud-static.oss-cn-beijing.aliyuncs.com/tcloud_git/case.gif)
+![image](http://tcloud-static.oss-cn-beijing.aliyuncs.com/tcloud_git/case.png)
 
 ### 缺陷管理&需求管理
 >		在迭代管理中已经初步看到了缺陷和需求的功能和界面展示，两个大的模块是使用比较频繁的，因此单独列出来，迭代管理中的缺陷和需求，更加匹配迭代版本，满足不一样的用户群
@@ -57,7 +57,7 @@
 ### 接口自动化
 >		当前自动化开源工具满天飞的情况下，为了满足业务需求，让全民自动化起来，将接口自动化平台话，让更多的人能接触到自动化
 >		在httprunner的基础上做了二次开发，展示效果如下
-![image](http://tcloud-static.oss-cn-beijing.aliyuncs.com/tcloud_git/interface.gif)
+![image](http://tcloud-static.oss-cn-beijing.aliyuncs.com/tcloud_git/interface.png)
 
 
 
